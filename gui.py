@@ -19,9 +19,6 @@ class ArpDetectorGUI:
         root.title("ARP Detector")
         root.geometry("470x580")
 
-        image_icon = PhotoImage(file="images/Icon.ico")
-        root.iconphoto(False, image_icon)
-
         # Create ARP table display
         arp_table_label = Label(root, text="ARP Table:", font=("Arial", 14, "bold"))
         arp_table_label.configure(bg="#3A6BFF", fg="#3A6BFF")

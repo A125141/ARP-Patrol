@@ -45,6 +45,8 @@ GUI also includes:
    - Sends a toast notification (if enabled)
 5. Displays the real-time ARP table in the GUI
 
+6. 
+
 
 👨‍💻 Author
 Developed by A125141

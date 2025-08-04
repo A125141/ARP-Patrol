@@ -1,4 +1,4 @@
-# 🛡️ ARP Detector - GUI Based
+# 🛡️ ARP Detector
 
 A simple Python tool to detect ARP spoofing/poisoning attacks in real time using a graphical user interface.
 
